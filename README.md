@@ -87,7 +87,7 @@ h(n) = num_empty + 10 * num_alone + (manhattan_distance / 5)
 ### Setup
 
 ```bash
-git clone https://github.com/NemoDeFish/a-star-search
+git clone https://github.com/NemoDeFish/a-star-search-for-single-player-tetress
 cd a-star-search
 ```
 
