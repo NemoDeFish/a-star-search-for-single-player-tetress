@@ -153,3 +153,11 @@ These `.csv` files describe the board layout using:
 * `b`: Blue token
 * `B`: Target Blue token
 * empty cell: blank
+
+## 🎮 Gameplay
+
+GIF of my A* search agent performing under a hard test case:   
+![Performance of my A* Search agent](img/gameplay.gif)
+
+📹 Example of the game's playground:  
+![Gameplay Playground](img/playground.png)
