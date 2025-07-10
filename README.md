@@ -162,8 +162,6 @@ GIF of my A* search agent performing under a hard test case:
 📹 Example of the game's playground:  
 ![Gameplay Playground](img/playground.png)
 
-Certainly! Here's a polished section for your README that highlights the performance of your **A\*** search agent based on passing 16 out of 18 test cases:
-
 ---
 
 ## 🚀 Performance of My A\* Search Agent
