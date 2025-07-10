@@ -161,3 +161,29 @@ GIF of my A* search agent performing under a hard test case:
 
 📹 Example of the game's playground:  
 ![Gameplay Playground](img/playground.png)
+
+Certainly! Here's a polished section for your README that highlights the performance of your **A\*** search agent based on passing 16 out of 18 test cases:
+
+---
+
+## 🚀 Performance of My A\* Search Agent
+
+The A\* search agent demonstrated **high reliability and accuracy**, passing the vast majority of the official test suite.
+
+| **Metric**       | **Value** |
+| ---------------- | --------- |
+| Total Test Cases | 18        |
+| Passed           | ✅ 16      |
+| Failed           | ❌ 2       |
+| Pass Rate        | **88.9%** |
+
+### Highlights
+
+* Efficient and accurate pathfinding across a wide range of scenarios
+* Strong handling of both simple and complex grid configurations
+* Demonstrates robustness in deterministic, cost-aware environments
+
+### ⚠Areas for Improvement
+
+* Investigate edge cases or rare path configurations that led to the 2 failed tests
+* Optimize heuristic or tie-breaking logic for even more consistent results
